@@ -47,6 +47,6 @@ kubectl get deployments
 <br/>
 
 ### **To run the application**
-curl IPAddress:port
+curl IPAddress:port(In our case 31000)
 
 
